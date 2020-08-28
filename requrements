@@ -1,0 +1,6 @@
+Django version: 3.0
+python Version: 3.7.8
+
+#How to run
+Open your terminal and type:
+python manage.py runserver
